@@ -265,3 +265,19 @@ h3{font-size:1.5rem;margin-bottom:10px;color:var(--navy)}
   object-fit: contain;
   object-position: center center;
 }
+.gallery-event {
+  margin-bottom: 70px;
+}
+
+.gallery-event:last-child {
+  margin-bottom: 0;
+}
+
+.gallery-event-title {
+  margin-bottom: 25px;
+}
+
+.gallery-event-title h2 {
+  margin-bottom: 0;
+  font-size: 2.3rem;
+}
